@@ -4,4 +4,4 @@ This is DAPP for owning stars, exchanging them, and trasnferring them on Ethereu
 * Token name: CryptoStar
 * Token Symbol: CST  
 * Truffle Version: Truffle v5.1.46
-* OpenZeppelin version: OpenZeppelin v3.2.0
+* OpenZeppelin Version: OpenZeppelin v3.2.0
